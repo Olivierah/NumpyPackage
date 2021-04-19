@@ -9,3 +9,4 @@
 - Comparando desempenho entre numpy array e um python list
 - Operações com arrays numpy
 - Descobrindo o tipo de dado
+- Arrays de duas dimensões
