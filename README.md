@@ -1,5 +1,5 @@
 # Python para Data Science - Numpy
- Introdução ao pacote Numpy
+ Introdução ao pacote Numpy. Alguns exemplos e dicas para ajudar no aprendizado do pacote Numpy.
 
 - Conhecendo o Numpy
 - Importando o Numpy
