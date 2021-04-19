@@ -10,3 +10,5 @@
 - Operações com arrays numpy
 - Descobrindo o tipo de dado
 - Arrays de duas dimensões
+- Acessando valores dentro do array numpy
+- Fatiamento
