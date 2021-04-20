@@ -12,3 +12,4 @@
 - Arrays de duas dimensões
 - Acessando valores dentro do array numpy
 - Fatiamento
+- Numpy array - Atributos (shape, ndim, size, T, tolist, reshape, resize)
