@@ -16,7 +16,7 @@
  
  
  # Python for Data Science and Data Analysis - Numpy
- Introduction to the Numpy package. Some examples and tips to help you learn the Numpy package.
+ Introduction to the Numpy package. Some examples and tips to help your Numpy package learning.
 
 - introduction to Numpy
 - Importing Numpy
