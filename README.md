@@ -25,7 +25,7 @@
 - Arange method
 - Using loadtxt to load external data
 - Comparing performance between numpy array and a python list
-- Operations with numpy arrays
+- Numpy arrays operations
 - Data types
 - Two-dimensional (2D) arrays
 - Accessing values within the numpy array
