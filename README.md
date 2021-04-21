@@ -13,6 +13,7 @@
 - Acessando valores dentro do array numpy
 - Fatiamento
 - Numpy array - Atributos (shape, ndim, size, T, tolist, reshape, resize)
+- Estatística com arrays numpy (column_stack, mean, std, sum)
  
  
  # Python for Data Science and Data Analysis - Numpy
@@ -30,3 +31,4 @@
 - Accessing values within the numpy array
 - Slicing
 - Numpy array - Attributes (shape, ndim, size, T, tolist, reshape, resize)
+- Numpy arrays Statistics (column_stack, mean, std, sum)
